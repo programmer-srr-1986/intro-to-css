@@ -1,4 +1,16 @@
-.class1 {
+.class {
     background-color: #ffc0cb;
     font-family: Veranda, "DejaVu Sans", sans-serif;
+}
+.class.cool {
+    font-size: 24px;
+}
+#id1 {
+    color: #0000ff;
+    font-size: 36px;
+}
+#id2 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
 }
