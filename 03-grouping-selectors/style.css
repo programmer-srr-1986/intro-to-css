@@ -1,0 +1,10 @@
+.class {
+    color: white;
+    background-color: #000000;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px
+}
+.class.subclass {
+    color: black;
+    background-color: #ffff00;
+}
